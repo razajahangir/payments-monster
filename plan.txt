@@ -1,0 +1,10 @@
+Settings:
+1. Payment Pages
+2. Transactions
+3. Settings
+4. Add-ons
+
+
+Modules:
+
+1. Form Builder (Create and display forms)
